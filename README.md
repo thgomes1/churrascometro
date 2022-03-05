@@ -17,8 +17,8 @@ Minha versão do churrascômetro, um projeto para calcular a quantidade de carne
 
 <p align="center">
   <a href="#camera-demonstração">Demonstração</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+   <a href="#books-sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#computer-tecnologias">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#books-sobre">Sobre</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#open_book-licença">Licença</a>
 </p>
 
