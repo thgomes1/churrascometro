@@ -2,8 +2,23 @@
    CHURRASCÔMETRO
 </h1>
 
+<p align="center">
+    <a href="https://www.linkedin.com/in/thiago-gomes-165ab722b/" >
+   <img alt="Thiago Gomes [Linkedin]" src="https://img.shields.io/badge/-ThiagoGomes-db6c03?style=flat&logo=Linkedin&logoColor=white"/>
+   </a>
+   <a href="https://github.com/thgomes1/churrascometro/blob/main/LICENSE" >
+   <img alt="MIT-LICENSE" src="https://img.shields.io/github/license/thgomes1/churrascometro?color=rgb%28219%2C%20108%2C%203%29"/>
+   </a>
+</p>
+
 <p>
 Minha versão do churrascômetro, um projeto para calcular a quantidade de carne e bebidas para um churrasco, sugerido no curso de desenvolvimento web full stack do Igor Oliveira (ProgramadorBR).
+</p>
+
+<p align="center">
+  <a href="#camera-demonstração">Demonstração</a>&nbsp;|&nbsp;
+  <a href="#computer-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#open_book-licença">Licença</a>
 </p>
 
 # Demonstração 📷
