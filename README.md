@@ -40,6 +40,10 @@ Minha versão do churrascômetro, um projeto para calcular a quantidade de carne
 -   <p>CSS3</p>
 -   <p>JAVASCRIPT</p>
 
+# :open_book: Licença 
+
+Este projeto possui uma licença do tipo MIT. Cheque o arquivo [LICENSE](https://github.com/thgomes1/churrascometro/blob/main/LICENSE) para saber mais
+
 #
 
 Feito com muita dedicação por Thiago Gomes 🧑‍💻 [Passe no meu Linkedin](https://www.linkedin.com/in/thiago-gomes-165ab722b/)
