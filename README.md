@@ -35,7 +35,7 @@ Minha versão do churrascômetro, um projeto para calcular a quantidade de carne
  </tr>
 </table>
 
-<p align="center"><a href="https://thgomes1.github.io/sorteador-de-nomes/">TESTE A PÁGINA AQUI</a></p>
+<p align="center"><a href="https://thgomes1.github.io/churrascometro/">TESTE A PÁGINA AQUI</a></p>
 
 # :books: Sobre
 
